@@ -1,4 +1,4 @@
-package org.example
+/*package org.example
 
 import org.example.domain.models.ConsumedProduct
 import org.example.domain.models.FoodProduct
@@ -7,7 +7,8 @@ import org.example.services.NutritionCalculator
 import org.example.usecases.CalculateDailyNutrientsUseCase
 
 
-fun main() {
+
+fun oldMain() {
     println("=== Тестирование библиотеки питания ===\n")
 
     // Создаем тестовые данные
@@ -72,4 +73,4 @@ fun main() {
     println("Всего жиров: ${dailySummary.totalFats}г")
     println("Всего углеводов: ${dailySummary.totalCarbohydrates}г")
     println("Всего калорий: ${dailySummary.totalCalories}ккал")
-}
+}*/
